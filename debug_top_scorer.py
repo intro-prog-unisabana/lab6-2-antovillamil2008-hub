@@ -1,4 +1,4 @@
-scores = []
+scores = {}
 
 while True:
     user_input = input("Enter player and score as 'name score' (or type 'stop' to finish):\n")
@@ -10,7 +10,7 @@ while True:
     if name in scores:
         scores[name] += score
     else:
-        scores[name] == score
+        scores[name] = score
 
 if len(scores) == 0:
     print("No scores recorded.")
