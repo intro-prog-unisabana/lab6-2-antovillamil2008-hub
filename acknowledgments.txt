@@ -3,18 +3,19 @@ Lab 6
 /****************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas 4 o 5 horas 
+Número de horas
+ 4 o 5 horas 
 
 
 /****************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
-¿Sí o no? No-
+¿Sí o no? 
 
 
 /****************************************************************************
-* Escribe cualquier otro comentario aquí.
+No. 
 ******************************************************************************/
 
 
@@ -23,7 +24,6 @@ Número de horas 4 o 5 horas
  *  Proporciona el enlace de tu perfil de GitHub (ej. https://github.com/afbeltranp)
  ******************************************************************************/
 
-[escribe el enlace aquí]
 https://github.com/antovillamil2008-hub
 
 /****************************************************************************
